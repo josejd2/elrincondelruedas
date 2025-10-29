@@ -1,4 +1,4 @@
-# El Rincón del Ruedas
+# 🏠 El Rincón del Ruedas
 
 Bienvenido a **El Rincón del Ruedas**, mi portfolio personal, donde comparto mis proyectos, habilidades y experiencias. Este sitio está inspirado en el diseño del portfolio de [Brittany Chiang](https://brittanychiang.com/), aunque fue generado inicialmente con **v0.app** y luego personalizado completamente por mí.
 
@@ -14,7 +14,7 @@ El diseño toma referencias de la estética limpia y moderna de Brittany Chiang,
 - **JavaScript**  
 - **HTML5 & CSS3**  
 
-## 🚀 Características
+## ⚙️ Características
 - Sección de **proyectos** con descripciones y enlaces en vivo.  
 - Sección de **experiencia y habilidades**.  
 - **Diseño responsivo** para todos los dispositivos.  
@@ -56,3 +56,10 @@ Abre tu navegador y visita la siguiente URL:
 *(Este es el puerto por defecto en aplicaciones Next.js)*
 
 
+# 🚀 Crear build de producción
+
+Para generar la versión optimizada de tu proyecto lista para producción, ejecuta:
+
+```bash
+npm run build
+```
