@@ -7,7 +7,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Jose Maria Lopez Villena | Backend Developer",
+  title: "Jose Maria Lopez Villena",
   description:
     "Portfolio personal de Jose Maria Lopez Villena, desarrollador junior especializado en Backend con base sólida Full Stack. Comprometido con soluciones robustas, escalables y accesibles.",
   keywords: [

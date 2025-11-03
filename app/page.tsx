@@ -87,7 +87,7 @@ export default function Portfolio() {
             <h1 className="mb-3 text-4xl font-bold tracking-tight text-foreground md:text-5xl">
               Jose Maria Lopez Villena
             </h1>
-            <h2 className="mb-4 text-lg font-medium text-foreground/90">Backend Developer</h2>
+            <h2 className="mb-4 text-lg font-medium text-foreground/90">Desarollador Junior</h2>
             <p className="mb-8 max-w-xs text-base leading-relaxed text-muted-foreground">
               Desarrollador Junior especializado en Backend con base sólida Full-Stack. Comprometido con soluciones
               robustas y escalables.
