@@ -1,6 +1,6 @@
-# 🏠 El Rincón del Ruedas
+# 🏠 Portfolio
 
-Bienvenido a **El Rincón del Ruedas**, mi portfolio personal, donde comparto mis proyectos, habilidades y experiencias. Este sitio está inspirado en el diseño del portfolio de [Brittany Chiang](https://brittanychiang.com/), aunque fue generado inicialmente con **v0.app** y luego personalizado completamente por mí.
+Bienvenido a mi portfolio personal, donde comparto mis proyectos, habilidades y experiencias. Este sitio está inspirado en el diseño del portfolio de [Brittany Chiang](https://brittanychiang.com/), aunque fue generado inicialmente con **v0.app** y luego personalizado completamente por mí.
 
 ## 🌐 Sitio web
 [https://elrincondelruedas.com](https://elrincondelruedas.com)
